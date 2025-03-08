@@ -1,5 +1,6 @@
   <h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Nishith Shanilka!</p></h1>
 <p><strong>Welcome to my profile!</strong></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donshanilka&label=Profile%20views&color=0e75b6&style=flat" alt="donshanilka" /> </p>
 <img alt="image header" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fbest-coding-language.html&psig=AOvVaw23ls3iDS7NGtaO7ap8v1J9&ust=1741538964563000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiH3rb4-osDFQAAAAAdAAAAABAS"> 
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=donshanilka&amp;column=8&amp;margin-w=15&amp;margin-h=15" alt="basemax"></a>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------"></a>
@@ -24,7 +25,7 @@
 <h1 align="center">Hi 👋, I'm Shanilka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donshanilka&label=Profile%20views&color=0e75b6&style=flat" alt="donshanilka" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donshanilka" alt="donshanilka" /></a> </p>
 
