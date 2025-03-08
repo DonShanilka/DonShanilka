@@ -17,7 +17,7 @@
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=donshanilka&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donshanilka&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
 </p>
-<hr>
+<a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------"></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donshanilka&" alt="donshanilka" /></p>
 
