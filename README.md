@@ -18,7 +18,7 @@
 <span class="line"><span style="color:#E1E4E8">   		]</span></span>
 <span class="line"><span style="color:#E1E4E8">   </span></span>
 <span class="line"><span style="color:#F97583">   def</span><span style="color:#B392F0"> getCity</span><span style="color:#E1E4E8">():</span></span>
-<span class="line"><span style="color:#F97583">   	return</span><span style="color:#E1E4E8"> Colombo_SriLanka()</span></span>
+<span class="line"><span style="color:#F97583">   	return</span><span style="color:#E1E4E8">"Colombo, Sri Lanka"</span></span>
 <span class="line"><span style="color:#E1E4E8">   </span></span>
 </span>
 
