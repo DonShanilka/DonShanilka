@@ -1,6 +1,6 @@
   <h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Nishith Shanilka!</p></h1>
 <p><strong>Welcome to my profile!</strong></p>
-<img alt="image header" src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png"> 
+<img alt="image header" src="[https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/imgs/header.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fbest-coding-language.html&psig=AOvVaw23ls3iDS7NGtaO7ap8v1J9&ust=1741538964563000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiH3rb4-osDFQAAAAAdAAAAABAE)"> 
 <h2 id="️-my-skills">⚙️ My skills</h2>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=basemax&amp;column=8&amp;margin-w=15&amp;margin-h=15" alt="basemax"></a>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------"></a>
