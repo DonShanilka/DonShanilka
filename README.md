@@ -1,7 +1,8 @@
-  <img align="right" src="https://komarev.com/ghpvc/?username=basemax&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Shanilka</h1>
-<p>Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: BaseMax)
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------"></a>
+  <h3 id="hi-there">Hi there 👋</h3>
+<p><a href="https://omkarpathak.in"><img src="https://i.imgur.com/HcaHoth.png" alt="img"></a></p>
+<hr>
+<p>Credits: <a href="https://github.com/OmkarPathak">OmkarPathak</a></p>
+<p>Last Edited on: 30/08/2020</p> 
 <b>Welcome !! </b><br>
 Some things about me :<br>
 :one: Programming language developer<br>
