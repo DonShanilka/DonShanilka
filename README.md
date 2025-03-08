@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donshanilka&label=Profile%20views&color=0e75b6&style=flat" alt="donshanilka" /> </p>
 <h1 id="hi--im-marcos"><p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I’m Nishith Shanilka!</p></h1>
-<a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------"></a>
+
 <p><strong>Welcome to my profile!</strong></p>
 
  <h3 id="hello-world-yellow_heart">Hello World! :yellow_heart:</h3>
