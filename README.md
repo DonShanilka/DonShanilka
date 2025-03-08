@@ -14,38 +14,9 @@
     <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=donshanilka&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8"> <br>
     <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donshanilka&amp;count_private=true&amp;theme=algolia&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=hack,swift,kotlin,objective-c">
 </p>
-<h2 id="contact-me">Contact me</h2>
-<a href="mailto:marcosvaas@gmail.com-">
-<img alt="eMail" src="https://img.shields.io/badge/marcosvaas@gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">
-</a>
 <hr>
-<p>Credits: <a href="https://github.com/marcos-inja">marcos-inja</a></p>
-<p>Last Edited on: 26/10/2021</p> 
-
-
-<h1 align="center">Hi 👋, I'm Shanilka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donshanilka" alt="donshanilka" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="s" height="30" width="40" /></a>
-<a href="https://medium.com/@shanilka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shanilka" height="30" width="40" /></a>
-<a href="/ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="ss" height="30" width="40" /></a>
-</p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donshanilka&show_icons=true&locale=en&layout=compact" alt="donshanilka" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donshanilka&show_icons=true&locale=en" alt="donshanilka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donshanilka&" alt="donshanilka" /></p>
+
+<p>Last Edited on: 08/03/2025</p> 
 
