@@ -6,8 +6,8 @@
  <h3 id="hello-world-yellow_heart">Hello World! :yellow_heart:</h3>
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200/">
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="-----------------------------------------------------"></a>
-<!-- <h2 id="who-am-i">Who am I?</h2>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583">class</span><span style="color:#B392F0"> WhoAmI</span><span style="color:#E1E4E8">:</span></span>
+<!-- <h2 id="who-am-i">Who am I?</h2>
 <span class="line"><span style="color:#E1E4E8">	user </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> Nishith Shanilka'</span></span>
 <span class="line"><span style="color:#E1E4E8">   current_edu </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> "IJSE - Institute of Software Engineering"</span></span>
 <span class="line"><span style="color:#E1E4E8">   hobbies </span><span style="color:#F97583">=</span><span style="color:#E1E4E8"> [</span></span>
